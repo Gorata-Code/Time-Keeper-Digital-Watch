@@ -9,3 +9,4 @@ A digital watch / time keeper desktop app made with Tk-inter and Datetime.
 ![Season Screen 2 - TimeKeeperApp](https://github.com/Gorata-Code/Time-Keeper-Digital-Watch/assets/94143890/6a12bd9a-fc2e-4f7e-b825-179aee60bace)
 ![Year Countdown Screen - TimeKeeperApp](https://github.com/Gorata-Code/Time-Keeper-Digital-Watch/assets/94143890/ae65dd7b-612f-4ff7-959e-bcc06efc7a6e)
 ![Year Countdown Screen 2 - TimeKeeperApp](https://github.com/Gorata-Code/Time-Keeper-Digital-Watch/assets/94143890/01799969-f9d4-40c4-96d7-2a6d4e065ac5)
+![Global Time Screen-TimeKeeperApp](https://github.com/Gorata-Code/Time-Keeper-Digital-Watch/assets/94143890/6173f07c-67a0-4331-93c5-ef28b4993eea)
